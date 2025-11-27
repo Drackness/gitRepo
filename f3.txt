@@ -1,0 +1,7 @@
+total 6
+drwxr-xr-x 1 drack 197609   0 nov. 26 22:18 ./
+drwxr-xr-x 1 drack 197609   0 nov. 26 18:47 ../
+drwxr-xr-x 1 drack 197609   0 nov. 26 22:11 .git/
+-rw-r--r-- 1 drack 197609 196 nov. 26 21:49 f1.txt
+-rw-r--r-- 1 drack 197609  12 nov. 26 21:53 f2.txt
+-rw-r--r-- 1 drack 197609   0 nov. 26 22:18 f3.txt
